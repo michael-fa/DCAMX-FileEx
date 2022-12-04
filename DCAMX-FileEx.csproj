@@ -7,8 +7,8 @@
     <ProjectGuid>{CDA2EB3E-642A-43AA-B616-16775298CF38}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DCAMX_IOEX</RootNamespace>
-    <AssemblyName>DCAMX-IOEX</AssemblyName>
+    <RootNamespace>DCAMX_FileEx</RootNamespace>
+    <AssemblyName>DCAMX-FileEx</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

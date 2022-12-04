@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCAMX-IOEX", "DCAMX-IOEX.csproj", "{CDA2EB3E-642A-43AA-B616-16775298CF38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCAMX-FileEx", "DCAMX-FileEx.csproj", "{CDA2EB3E-642A-43AA-B616-16775298CF38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
